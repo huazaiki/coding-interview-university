@@ -514,12 +514,12 @@
 - [ ] [大O符号（以及Ω和Θ）- 最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena（视频）](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [加州大学伯克利分校关于大O符号（视频）](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-- [ ] [摊还分析（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [摊还分析（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] TopCoder（包括递归关系和主定理）：
     - [计算复杂性：第1部分](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [计算复杂性：第2部分](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [速查表](http://bigocheatsheet.com/)
-- [ ] [[回顾] 在 18 分钟内分析算法（播放列表）（视频）](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
+- [x] [速查表](http://bigocheatsheet.com/)
+- [x] [[回顾] 在 18 分钟内分析算法（播放列表）（视频）](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 好吧，差不多就到这里了。
 
@@ -529,14 +529,14 @@
 ## 数据结构
 
 - ### 数组（Arrays）
-    - [ ] 介绍：
+    - [x] 介绍：
         - [数组 CS50 哈佛大学](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [数组（视频）](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [加州大学伯克利分校CS61B - 线性和多维数组（视频）](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE)（从15分32秒开始）
         - [动态数组（视频）](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [嵌套数组（视频）](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] 实现一个动态数组（可自动调整大小的可变数组）：
-        - [ ] 练习使用数组和指针去编码，并且指针是通过计算去跳转而不是使用索引
+        - [x] 练习使用数组和指针去编码，并且指针是通过计算去跳转而不是使用索引
         - [ ] 通过分配内存来新建一个原生数据型数组
             - 可以使用 int 类型的数组，但不能使用其语法特性
             - 从大小为16或更大的数（使用2的倍数 —— 16、32、64、128）开始编写
